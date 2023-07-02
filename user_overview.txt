@@ -1,0 +1,37 @@
+User Overview:
+Total users: 4
+Total tasks: 3
+
+
+User: admin
+Total number of tasks assigned: 1
+Number of tasks assigned as %: 33.33333333333333%
+Tasks assigned completed as %: 0.0%
+Uncomplete tasks assigned as %: 100.0%
+Overdue tasks as %: 100.0%
+
+
+User: ken
+Total number of tasks assigned: 1
+Number of tasks assigned as %: 33.33333333333333%
+Tasks assigned completed as %: 0.0%
+Uncomplete tasks assigned as %: 100.0%
+Overdue tasks as %: 0.0%
+
+
+User: ken2
+Total number of tasks assigned: 1
+Number of tasks assigned as %: 33.33333333333333%
+Tasks assigned completed as %: 0.0%
+Uncomplete tasks assigned as %: 100.0%
+Overdue tasks as %: 0.0%
+
+
+User: ken3
+Total number of tasks assigned: 0
+Number of tasks assigned as %: 0.0%
+Tasks assigned completed as %: 0%
+Uncomplete tasks assigned as %: 0%
+Overdue tasks as %: 0%
+
+

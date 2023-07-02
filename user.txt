@@ -1,0 +1,4 @@
+admin;password
+ken;pokemon
+ken2;pokemon
+ken3;pokemon
